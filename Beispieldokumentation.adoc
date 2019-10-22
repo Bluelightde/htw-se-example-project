@@ -14,6 +14,7 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 
 === Listen
 
+
 .Beispiel: unsortierte Liste 
 **ACHBCE**
 
