@@ -3,6 +3,7 @@ Vorname Nachname <email>
 1.0, 01.09.2019 
 :toc: 
 :toc-title: Inhaltsverzeichnis
+:source-highlighter: highlightjs
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -21,7 +22,7 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 .Beispiel: sortierte Liste
 _ABCDEF_
 
-`Hallo``
+`Hallo`
 
 *_Guten Morgen_*
 
@@ -29,4 +30,13 @@ _ABCDEF_
 
 **S**__o__ftware **E**ng__i__n__ee__r__i__ng
 
-Test
+`Micha Weiß`
+
+#include <stdio.h>
+
+int main(int argc, char* argv[])
+{
+    print("Hello, World\n");
+    return 0;
+
+}
