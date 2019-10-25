@@ -52,3 +52,6 @@ int main(int argc, char* argv[])
 ----
 include::./Hello_World.c[]
 ----
+
+=== Bilder
+image::./Traktor.jpeg[]
