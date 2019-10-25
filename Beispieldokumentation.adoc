@@ -4,11 +4,13 @@ Vorname Nachname <email>
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: highlightjs
+:xrefstyle: full
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben der Syntax von AsciiDoc.
 
+[#1]
 == Kennenlernen der Syntax
 
 Über die Aufgaben wird das Dokument Stück für Stück aufgebaut und angepasst.
@@ -48,6 +50,7 @@ int main(int argc, char* argv[])
 
 [#SourceCode]
 === Quellcode
+.hello World
 [source,c]
 ----
 include::./Hello_World.c[]
@@ -55,3 +58,9 @@ include::./Hello_World.c[]
 
 === Bilder
 image::./Traktor.jpeg[]
+
+=== Verweise
+
+* <<SourceCode>>
+* <<Kennenlernen der Syntax>>
+* <<1>>
