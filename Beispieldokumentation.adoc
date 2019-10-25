@@ -33,7 +33,10 @@ _ABCDEF_
 `Micha Weiß`
 
 === Code
-`#include <stdio.h>
+
+[source,c]
+----
+#include <stdio.h>
 
 int main(int argc, char* argv[])
 {
@@ -41,4 +44,11 @@ int main(int argc, char* argv[])
     return 0;
 
 }
-´
+----
+
+[#SourceCode]
+=== Quellcode
+[source,c]
+----
+include::./Hello_World.c[]
+----
